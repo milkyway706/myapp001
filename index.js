@@ -1,5 +1,6 @@
 /**
  * @format
+ * Wikanda Janjam
  */
 
 import {AppRegistry} from 'react-native';
